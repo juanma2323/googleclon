@@ -3,6 +3,10 @@
     margin: 0;
     padding: 0;
 }
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
 html {
     font-size: 62.5%;
    /* Tamaño predeterminado de los textos en el HTML */
