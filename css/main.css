@@ -1,8 +1,13 @@
+: :root {
+    --primary-color: black;
+    --header-size: 4rem;
+}
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 html {
-    font-size: 65.3%;
+    font-size: 62.5%;
+   /* Tamaño predeterminado de los textos en el HTML */
 }
