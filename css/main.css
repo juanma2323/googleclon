@@ -25,3 +25,7 @@ header nav .nav-right-section {
     justify-content: center;
     align-items: center;
 }
+nav .nav-right-section a {
+    margin-right: 10px;
+    color: black;
+}
